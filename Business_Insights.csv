@@ -1,0 +1,6 @@
+Cluster_ID,Cluster_Name,Business_Profile,Marketing_Strategy,Revenue_Potential,Risk_Level
+1,Careful Spenders,Budget-conscious customers with limited income,"Budget-friendly options, value deals, discounts",Low,Low
+2,Standard Customers,Average customers with balanced income and spending,"Balanced approach, seasonal promotions",Medium,Low
+3,VIP Customers,"High-value customers, primary target for premium products","Premium products, exclusive offers, loyalty programs",High,Low
+4,Impulsive Buyers,"Low income but high spending, potential credit risk","Limited-time offers, installment plans",Medium,High
+5,Conservative Wealthy,Wealthy but cautious spenders,"Quality-focused marketing, investment products",High,Low
